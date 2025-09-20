@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Ana 👋
 
-<!--
-**ana-vucic-dev/ana-vucic-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web developer in training. I enjoy problem-solving, back-end logic, and building apps that bring ideas to life.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+- **YelpCamp clone** — my bootcamp capstone project (Express, MongoDB, Node.js, EJS)
+- Small side projects — experimenting and learning by doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+- Node.js, Express, and MongoDB
+- Git & GitHub for version control
+- Sharpening my full-stack development skills
+
+## 💡 About me
+- I love coding challenges where I get to figure out *why* something isn’t working and fix it.
+- I’m curious, detail-oriented, and excited to grow as a developer.
+
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,mongodb,git,github,vscode,linux,ubuntu" />
+</p>
+
+## 📫 Connect
+- GitHub: [ana-vucic-dev](https://github.com/ana-vucic-dev)
