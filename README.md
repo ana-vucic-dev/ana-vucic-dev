@@ -16,9 +16,9 @@ A fully keyboard-accessible **vanilla JavaScript** calculator with a custom expr
 - Edge-case and invalid-input testing
 - Clean, readable, and debuggable code
 
-🔗 Live demo: coming soon
+🔗 Live demo: [![GitHub Pages](https://img.shields.io/badge/Live%20Demo-online?style=flat&logo=github%20pages&logoSize=auto&labelColor=gray)](https://ana-vucic-dev.github.io/scientific-javascript-calculator/)
 
-🔗 Source code: in final review
+🔗 Source code: [![Scientific JavaScript Calculator](https://img.shields.io/badge/GitHub-Repo-online?style=flat&logo=github&logoSize=auto&label=GitHub&labelColor=gray&color=blue)](https://github.com/ana-vucic-dev/scientific-javascript-calculator)
 
 ### 🎮 Game Projects
 
