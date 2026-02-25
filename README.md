@@ -11,47 +11,74 @@ A fully keyboard-accessible **vanilla JavaScript** calculator with a custom expr
 **Key focus areas:**
 
 - Input handling implemented as a state machine
+
 - Tokenization and Shunting-Yard expression parsing
+
 - Evaluation logic based on Reverse Polish Notation (RPN)
+
 - Edge-case and invalid-input testing
+
 - Clean, readable, and debuggable code
 
 🔗 Live demo: [![GitHub Pages](https://img.shields.io/badge/Live%20Demo-online?style=flat&logo=github%20pages&logoSize=auto&labelColor=gray)](https://ana-vucic-dev.github.io/scientific-javascript-calculator/)
 
 🔗 Source code: [![Scientific JavaScript Calculator](https://img.shields.io/badge/GitHub-Repo-online?style=flat&logo=github&logoSize=auto&label=GitHub&labelColor=gray&color=blue)](https://github.com/ana-vucic-dev/scientific-javascript-calculator)
 
-### 🎮 Game Projects
+### 🎮 Tic-Tac-Toe (Minimax AI)
 
-- Tic-Tac-Toe — multiple implementations exploring different UI and logic approaches
-- Rock–Paper–Scissors — focus on clean state handling and predictable behavior
+A vanilla JavaScript implementation featuring persistent state management and a minimax-based AI opponent with controlled randomness for more human-like play.
 
-### 🧮 Core JavaScript Projects
+**Key focus areas:**
 
-- Standard calculator
-- Small, focused logic challenges published progressively
+- Deterministic game logic
+
+- AI decision tree evaluation (Minimax)
+
+- State persistence across rounds
+
+- Clear separation of UI and game logic
+
+🔗 Live demo: [![GitHub Pages](https://img.shields.io/badge/Live%20Demo-online?style=flat&logo=github%20pages&logoSize=auto&labelColor=gray)](https://ana-vucic-dev.github.io/tic-tac-toe/)
+
+🔗 Source code: [![Tic-Tac-Toe](https://img.shields.io/badge/GitHub-Repo-online?style=flat&logo=github&logoSize=auto&label=GitHub&labelColor=gray&color=blue)](https://github.com/ana-vucic-dev/tic-tac-toe/)
 
 ## 🛠️ Tech I Use Comfortably
 
 - JavaScript (ES6+)
+
 - HTML5 & CSS3
+
+- TypeScript (type-safe UI logic & form state modeling)
+
 - Bootstrap
+
 - Vitest & fast-check
+
 - Git & GitHub
+
 - Linux (Ubuntu — daily driver)
 
 ## 💙 What I Care About
 
 - Correctness over cleverness
+
 - Readable, maintainable code
+
 - Testability & predictable UI behavior
+
 - Accessibility (keyboard navigation & ARIA standards)
+
 - Responsive web design
 
 ## 📌 Currently
 
-- Polishing and publishing portfolio projects
-- Exploring React again at a sustainable pace
-- Strengthening testing and application architecture skills
+- Deepening React fundamentals and modern state management patterns
+
+- Applying TypeScript for safer and more predictable UI logic
+
+- Refining testing strategies and architectural decision-making
+
+- Polishing and publishing production-ready portfolio projects
 
 ## 🎓 Background
 
